@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358903017804",
+    "project_id": "sign-main",
+    "storage_bucket": "sign-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358903017804:android:c916a813dd789c209adfe9",
+        "android_client_info": {
+          "package_name": "com.example.mpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqKqm5rMVVzOWLEhcwXYB9KiKrh6YrEz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
